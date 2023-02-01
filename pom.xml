@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.chirango</groupId>
-	<artifactId>employee-system-api</artifactId>
+	<artifactId>employeeEntity-system-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>employee-system-api</name>
+	<name>employeeEntity-system-api</name>
 	<description>BackEnd project built with Spring Boot, REST API, MySQL</description>
 	<properties>
 		<java.version>17</java.version>
